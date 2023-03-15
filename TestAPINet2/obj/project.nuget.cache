@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjVUMGHG8nEson81i1YmQCmtHHR0RVbznsw6B0pvf6JQTWFPhw7G4L962ShJptq1GKkA6DEqwtQ3E4xU5C6g+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FELIX\\projects\\Test\\TestAPINet2\\TestAPINet2\\TestAPINet2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FELIX\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\FELIX\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\FELIX\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\FELIX\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\FELIX\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\FELIX\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
